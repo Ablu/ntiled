@@ -1,6 +1,6 @@
 #NTiled
 
-A library for working with Tiled 0.91 maps (tmx).
+A library for working with Tiled 0.9.1 maps (tmx).
 
 ##NuGet
 
